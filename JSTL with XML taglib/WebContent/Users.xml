@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<users>
+	<user>
+		<name> Sumit </name>
+		<gender> Male </gender>
+		<age> 25 </age>
+	</user>
+	<user>
+		<name> Natasha </name>
+		<gender>Female</gender>
+		<age> 24 </age>
+	</user>
+	<user>
+		<name> Rahul </name>
+		<gender>Male</gender>
+		<age> 27 </age>
+	</user>
+	<user>
+		<name> Pooja </name>
+		<gender>Female</gender>
+		<age> 19 </age>
+	</user>
+</users>
