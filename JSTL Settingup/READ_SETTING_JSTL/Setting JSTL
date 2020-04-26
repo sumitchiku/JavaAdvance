@@ -1,0 +1,10 @@
+JSTL first search “JSTL download” open https://mvnrepository.com/artifact/javax.servlet/jstl/1.2 and click on jar file and download it
+Now create dynamic web project  and put this downloaded jar to webcontentwebinflib and past within lib. We will also build the path for the project and add 2 jar files from tomcat apache
+1.	Servlet-api.jar
+2.	Jsp-api.jar
+It JSTL we have 5 kind of taglib
+i.	Core Tag  <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+ii.	XML Tag
+iii.	SQL Tag
+iv.	JSTL Functions
+v.	Formatting Tags
